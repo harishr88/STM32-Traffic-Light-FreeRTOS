@@ -38,5 +38,3 @@ FreeRTOS demonstrating real-time embedded systems concepts.
 4. Connect LEDs to PA1, PA2, PA3 with 220 ohm resistors
 5. Connect button to PA0 with pull-up
 
-## Demo
-[Add video link here after recording]
